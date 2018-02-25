@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FajriNugraha_1202140198_Modul3</string>
+
+    <string name="label_placeholder" />
+    <array name="img_src">
+        <item>@drawable/img_ades</item>
+        <item>@drawable/img_amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/img_cleo</item>
+        <item>@drawable/img_club</item>
+        <item>@drawable/img_equil</item>
+        <item>@drawable/img_evian</item>
+        <item>@drawable/img_leminerale</item>
+        <item>@drawable/img_nestle</item>
+        <item>@drawable/img_pristine</item>
+        <item>@drawable/img_vit</item>
+    </array>
+
+    <string-array name="name_src">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="info_src">
+        <item>Ini adalah air mineral Ades</item>
+        <item>Ini adalah air mineral Amidis</item>
+        <item>Ini adalah air mineral Aqua</item>
+        <item>Ini adalah air mineral Cleo</item>
+        <item>Ini adalah air mineral Club</item>
+        <item>Ini adalah air mineral Equil</item>
+        <item>Ini adalah air mineral Evian</item>
+        <item>Ini adalah air mineral Leminerale</item>
+        <item>Ini adalah air mineral Nestle</item>
+        <item>Ini adalah air mineral Pristine</item>
+        <item>Ini adalah air mineral Vit</item>
+    </string-array>
+
+    <string name="dummy_text">Air minum adalah air yang digunakan untuk konsumsi manusia.
+        Menurut departemen kesehatan, syarat-syarat air minum adalah tidak berasa, tidak berbau,
+        tidak berwarna, tidak mengandung mikroorganisme yang berbahaya, dan tidak mengandung logam berat.
+        Air minum adalah air yang melalui proses pengolahan ataupun tanpa proses pengolahan yang memenuhi
+        syarat kesehatan dan dapat langsung di minum (Keputusan Menteri Kesehatan Nomor 907 Tahun 2002)
+        Walaupun air dari sumber alam dapat diminum oleh manusia, terdapat risiko bahwa air ini telah tercemar oleh
+        bakteri (misalnya Escherichia coli) atau zat-zat berbahaya. Bakteri dapat dibunuh dengan memasak air hingga 100 °C,
+        namun banyak zat berbahaya, terutama logam, yang tidak dapat dihilangkan dengan cara ini. Saat ini terdapat krisis
+        air minum di berbagai negara berkembang di dunia akibat jumlah penduduk yang terlalu banyak dan pencemaran air.</string>
+    <string name="info_placeholder">Ini adalah air mineral</string>
+    <string name="air_label">Air</string>
+</resources>
